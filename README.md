@@ -227,58 +227,6 @@ const kiranSagar = {
 
 ---
 
-## ⚡ Quick Setup Guide
-
-Want to run my projects locally? Here's how:
-
-### 🛠️ Prerequisites
-```bash
-# Install Node.js and npm
-node --version  # Should be 14+
-npm --version   # Should be 6+
-
-# Install MongoDB
-# Visit: https://docs.mongodb.com/manual/installation/
-```
-
-### 🚀 Clone & Setup
-```bash
-# Clone any of my repositories
-git clone https://github.com/KiranSagar115/[repository-name]
-cd [repository-name]
-
-# Install dependencies
-npm install
-
-# Setup environment variables
-cp .env.example .env
-# Edit .env with your configurations
-
-# For MERN Stack projects
-npm run dev          # Runs both frontend and backend
-npm run server       # Backend only
-npm run client       # Frontend only
-
-# For React projects
-npm start
-
-# For Python projects
-pip install -r requirements.txt
-python app.py
-```
-
-### 🗄️ Database Setup (MongoDB)
-```bash
-# Start MongoDB service
-mongod
-
-# Create database (if needed)
-mongo
-> use [database-name]
-> db.createCollection("users")
-```
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
