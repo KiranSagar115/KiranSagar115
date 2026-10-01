@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+RAG+Enthusiast+%F0%9F%A4%96;MERN+Stack+%7C+Python+%7C+Prompt+Engineering;Building+AI-Powered+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+RAG+Enthusiast+%F0%9F%A4%96;MERN+Stack+%7C+Python+%7C+Prompt+Engineering;Building+AI-Powered+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,27 +23,23 @@
   <img src="https://img.shields.io/github/followers/KiranSagar115?style=for-the-badge&color=0077B5&labelColor=181717" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=450&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 Aspiring software engineer with a strong interest in **full-stack development** and **AI-powered solutions**. Skilled in Python, the MERN stack, prompt engineering, and retrieval-augmented generation (RAG), with hands-on knowledge of building AI agents. Passionate about creating innovative and impactful software applications.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=%E2%9A%A1+Tech+Stack" alt="Tech Stack" />
 </p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,tailwind,html,css,js,git,github,figma&perline=6" />
@@ -81,16 +77,12 @@ Aspiring software engineer with a strong interest in **full-stack development** 
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=1000&color=FFD93D&center=true&vCenter=true&width=450&lines=%F0%9F%92%BC+Featured+Projects" alt="Projects" />
-</p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300">
 </p>
 
 <table align="center">
@@ -125,24 +117,24 @@ An AI-powered coding mentor built with **React**, **Node.js**, and **Gemini AI**
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=%F0%9F%93%84+Publications" alt="Publications" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 - 📘 **AIGENT (AI Learning Platform)** — ISSN: 1053-7899 (MSW Management)
 - 📗 **AI Powered HRMS Platform** — Journal ID: 185373 (IJSREM)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=550&lines=%F0%9F%8F%86+Achievements+%26+Certifications" alt="Achievements" />
 </p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 <details>
 <summary>🏅 <b>Achievements</b> (click to expand)</summary>
@@ -168,13 +160,13 @@ An AI-powered coding mentor built with **React**, **Node.js**, and **Gemini AI**
 
 </details>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=450&lines=%F0%9F%93%8A+GitHub+Stats" alt="Stats" />
 </p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KiranSagar115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -192,14 +184,6 @@ An AI-powered coding mentor built with **React**, **Node.js**, and **Gemini AI**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KiranSagar115&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KiranSagar115/KiranSagar115/output/snake.svg" alt="snake animation" />
-</p>
-
-<p align="center"><sub>⬆️ Snake animation: needs a one-time GitHub Action setup (see notes below)</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
